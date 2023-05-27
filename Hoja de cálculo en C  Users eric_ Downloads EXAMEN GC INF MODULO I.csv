@@ -1,0 +1,13 @@
+id;Ambiente;Temperatura;Humedad;Viento;Clase
+1;Espinoza;Media;Normal;VERDADERO;No Juega
+2;Eric;Baja;Normal;FALSO;No Juega
+3;Espinoza;Media;Normal;FALSO;No Juega
+4;Mateo;Alta;Alta;VERDADERO;Juega
+5;Eric;Baja;Normal;FALSO;No Juega
+6;Eric;Alta;Alta;VERDADERO;Juega
+7;Espinoza;Baja;Normal;VERDADERO;Juega
+8;Espinoza;Baja;Normal;VERDADERO;No Juega
+9;Mateo;Alta;Alta;FALSO;Juega
+10;Eric;Media;Alta;FALSO;Juega
+11;Espinoza;Baja;Alta;VERDADERO;Juega
+12;Espinoza;Media;Alta;FALSO;No Juega
