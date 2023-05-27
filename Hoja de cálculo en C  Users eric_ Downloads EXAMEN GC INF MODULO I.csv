@@ -1,13 +1,13 @@
-id;Ambiente;Temperatura;Humedad;Viento;Clase
-;Espinoza;Media;Normal;VERDADERO;No Juega
-;Eric;Baja;Normal;FALSO;No Juega
-;Espinoza;Media;Normal;FALSO;No Juega
-;Mateo;Alta;Alta;VERDADERO;Juega
-;Eric;Baja;Normal;FALSO;No Juega
-;Eric;Alta;Alta;VERDADERO;Juega
-;Espinoza;Baja;Normal;VERDADERO;Juega
-;Espinoza;Baja;Normal;VERDADERO;No Juega
-;Mateo;Alta;Alta;FALSO;Juega
-;Eric;Media;Alta;FALSO;Juega
-;Espinoza;Baja;Alta;VERDADERO;Juega
-;Espinoza;Media;Alta;FALSO;No Juega
+Ambiente;Temperatura;Humedad;Viento;Clase
+Espinoza;Media;Normal;VERDADERO;No Juega
+Eric;Baja;Normal;FALSO;No Juega
+Espinoza;Media;Normal;FALSO;No Juega
+Mateo;Alta;Alta;VERDADERO;Juega
+Eric;Baja;Normal;FALSO;No Juega
+Eric;Alta;Alta;VERDADERO;Juega
+Espinoza;Baja;Normal;VERDADERO;Juega
+Espinoza;Baja;Normal;VERDADERO;No Juega
+Mateo;Alta;Alta;FALSO;Juega
+Eric;Media;Alta;FALSO;Juega
+Espinoza;Baja;Alta;VERDADERO;Juega
+Espinoza;Media;Alta;FALSO;No Juega
